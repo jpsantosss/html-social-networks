@@ -50,8 +50,8 @@ section#redes-sociais > ul > li{
     padding: 15px;
 }
 section#redes-sociais > ul > li > a > img{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
 }
 section#redes-sociais > ul > li > a:hover{
     opacity: 0.4;
