@@ -47,7 +47,8 @@ section#redes-sociais > ul{
     list-style-type: none;
 }
 section#redes-sociais > ul > li{
-    padding: 15px;
+    padding: 5px;
+    margin: 10px;
 }
 section#redes-sociais > ul > li > a > img{
     width: 30px;
